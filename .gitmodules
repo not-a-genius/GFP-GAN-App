@@ -1,0 +1,6 @@
+[submodule "GFPGAN"]
+	path = GFPGAN
+	url = git@github.com:TencentARC/GFPGAN.git
+[submodule "Pytorch-Kotlin-Demo"]
+	path = Pytorch-Kotlin-Demo
+	url = git@github.com:StevenJokess/Pytorch-Kotlin-Demo.git
